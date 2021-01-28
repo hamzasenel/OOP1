@@ -12,6 +12,7 @@ namespace OOP1
             ProductManager productManager = new ProductManager(); Console.WriteLine("-----");
             productManager.Add(product1); Console.WriteLine("-----");
             
+
             Console.WriteLine();
             foreach (string item in dizi)
             {
